@@ -1,41 +1,31 @@
-# Website
+#### **warning**
+The documentation is not finished, is currently in creation.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+⚡ KieryJS will help you to make **your own first dynamic website** with JavaScript.
 
-### Installation
+💸 KieryJS **it's totally free**, create your own dynamic website now and publish the site with **[Vercel](https://vercel.com/)**.
 
+📦 Thanks to **[NPM](https://www.npmjs.com/)**, it will be **easy to download** and use the **[Node.js](https://www.nodejs.com/)** package for the first time.
+
+📂 KieryJS is **open source**, you can find its **[GitHub page](https://github.com/IlyesHernandez/kieryjs-express-framework)**, and you can **contribute to the development of the project**. The project is constantly evolving, and __does not have to be abandoned__.
+
+## Fast Setup
+
+Use [GitHub](https://www.github.com/) for quickly setup your own webapp project.
+Clone the [get-stated-tamplate](https://github.com/IlyesHernandez/get-stated-tamplate-kieryjs) GitHub Reporitories :
+```console
+$ git clone https://github.com/IlyesHernandez/get-stated-tamplate-kieryjs.git
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+After, you must to install all dependencies with [NPM](https://www.npmjs.com/package/kieryjs) :
+```console
+$ npm install
 ```
 
-Not using SSH:
+### Start the Project
+If you need to start the project for development, do this :
+```console
+$ npm run dev
+``` 
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+#### **warning**
+The build command (```$ npm run build```) **do not run**, this functionality is in **BETA**.
