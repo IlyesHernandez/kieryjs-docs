@@ -1,6 +1,8 @@
 #### **warning**
 The documentation is not finished, is currently in creation.
 
+# Introduction
+
 ⚡ KieryJS will help you to make **your own first dynamic website** with JavaScript.
 
 💸 KieryJS **it's totally free**, create your own dynamic website now and publish the site with **[Vercel](https://vercel.com/)**.
